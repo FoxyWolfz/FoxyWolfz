@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FoxyWolfz
+- 👋 Hi, I’m @FoxyWolfz, i'm Brazilian and i'm 19 years old
 - 👀 I’m interested in learn more and work with HTML, CSS, JavaScript.
 - 🌱 I’m currently learning in Computer Science college and studying with Rocketseat
 - 💞️ I'm looking to collaborate with experienced programmers who can help me learn more and with companies looking for a Junior programmer.
